@@ -1,8 +1,8 @@
 ---
 name: Sriram Pemmaraju
 role: Instructor
-email: 
-website: https://kevinl.info
+email: sriram-pemmaraju@uiowa.edu
+website: https://cs.uiowa.edu/people/sriram-pemmaraju
 photo: bio-photo.jpg
 ---
 
