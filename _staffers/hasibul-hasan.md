@@ -1,6 +1,6 @@
 ---
 name: Hasibul Hasan
-role: PhD student
+role: student
 email: dmhasibul-hasan@uiowa.edu
 website: https://homepage.cs.uiowa.edu/~dhsn/
 photo: bio-photo.jpg

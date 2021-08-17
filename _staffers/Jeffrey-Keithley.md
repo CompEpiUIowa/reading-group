@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Keithley
-role: PhD student
+role: student
 email: jeffrey-keithley@uiowa.edu
 website: 
 photo: bio-photo.jpg
