@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Reading Group
-tagline: Reading group for learning techniques from algorithms, data mining, and ML for spread of infections
+tagline: Algorithms and ML reading group for infection spread
 description: Techniques from algorithms, data mining, and machine learning that can be applied to problems related to the spread of infections
-author: Maintained by Hankyu Jang
+author: Hankyu Jang
 baseurl: '/reading-group' # the subpath of your site, e.g. /blog
 url: 'https://compepiuiowa.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Maintained by Hankyu Jang:
     - 'https://hankyujang.github.io/'
   UIowa CS:
     - 'https://cs.uiowa.edu/'
