@@ -44,10 +44,22 @@ Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser Ł, Polos
 
 ## Week 5 (Sep 22)
 
-TBD
+- Presenter: Prof. Sriram Pemmaraju
+
+Tutorial on submodular functions
 
 ## Week 6 (Sep 29)
 
 TBD
+
+## Week 7 (Oct 6)
+
+- Presenter: Prof. Bijaya Adhikari
+
+## Week 8 (Oct 13)
+
+TBD
+
+
 
 ...

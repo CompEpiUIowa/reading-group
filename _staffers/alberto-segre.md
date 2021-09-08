@@ -2,7 +2,7 @@
 name: Alberto Segre
 role: Instructor
 email: alberto-segre@uiowa.edu
-website: https://cs.uiowa.edu/people/bijaya-adhikari
+website: https://cs.uiowa.edu/people/alberto-segre
 photo: bio-photo.jpg
 ---
 
