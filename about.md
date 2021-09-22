@@ -50,7 +50,11 @@ Tutorial on submodular functions
 
 ## Week 6 (Sep 29)
 
-TBD
+- Presenter: Jeff Keithley
+
+Kempe D, Kleinberg J, Tardos É. Maximizing the spread of influence through a social network. InProceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining 2003 Aug 24 (pp. 137-146).
+[Paper link](https://dl.acm.org/doi/10.1145/956750.956769)
+
 
 ## Week 7 (Oct 6)
 
