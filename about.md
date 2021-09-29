@@ -62,7 +62,9 @@ Kempe D, Kleinberg J, Tardos É. Maximizing the spread of influence through a so
 
 ## Week 8 (Oct 13)
 
-TBD
+- Presenter: David Aites
+
+GCN
 
 
 
