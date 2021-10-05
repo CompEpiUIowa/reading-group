@@ -60,6 +60,8 @@ Kempe D, Kleinberg J, Tardos É. Maximizing the spread of influence through a so
 
 - Presenter: Prof. Bijaya Adhikari
 
+Title: Exploiting and optimizing mobility to reduce Hospital Acquired Infections
+
 ## Week 8 (Oct 13)
 
 - Presenter: David Aites
