@@ -66,8 +66,23 @@ Title: Exploiting and optimizing mobility to reduce Hospital Acquired Infections
 
 - Presenter: David Aites
 
-GCN
+General overview of GCNs
 
+## Week 9 (Oct 20)
+
+TBD
+
+## Week 10 (Oct 27)
+
+TBD
+
+## Week 11 (Nov 3)
+
+TBD
+
+## Week 12 (Nov 10)
+
+TBD
 
 
 ...
