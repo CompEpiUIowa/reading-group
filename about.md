@@ -70,15 +70,17 @@ General overview of GCNs
 
 ## Week 9 (Oct 20)
 
-TBD
+- Presenter: Prof. Sriram Pemmaraju
+
+Tutorial on submodular function maximization with matroid constraints, which will serve as "Part 2" in the series of tutorials on submodular function optimization.
 
 ## Week 10 (Oct 27)
 
-TBD
+- Presenter: Akash Choudhuri
 
 ## Week 11 (Nov 3)
 
-TBD
+- Presenter: Masahiro Kiji
 
 ## Week 12 (Nov 10)
 
