@@ -78,6 +78,9 @@ Tutorial on submodular function maximization with matroid constraints, which wil
 
 - Presenter: Akash Choudhuri
 
+Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodríguez, Chao Zhang, B. Aditya Prakash. When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting. NeurIPS 2021.
+[Paper link](https://arxiv.org/abs/2106.03904)
+
 ## Week 11 (Nov 3)
 
 - Presenter: Masahiro Kiji
