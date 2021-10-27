@@ -85,7 +85,25 @@ Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodríguez, Chao Zhang, B. Adity
 
 - Presenter: Masahiro Kiji
 
+Shenyang Huang, Yasmeen Hitti, Guillaume Rabusseau, Reihaneh Rabbany, Laplacian Change Point Detection for Dynamic Graphs, KDD 2020
+[Paper Link](https://arxiv.org/abs/2007.01229)
+
 ## Week 12 (Nov 10)
+
+- Presenter: Hankyu Jang
+
+Sofia Maria Nikolakaki, Alina Ene, Evimaria Terzi, An Efficient Framework for Balancing Submodularity and Cost, KDD 2021
+[Paper Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467367)
+
+## Week 13 (Nov 17)
+
+Panel discussion on reviews
+
+## Week 14 (Nov 24)
+
+TBD
+
+## Week 15 (Dec 1)
 
 TBD
 
