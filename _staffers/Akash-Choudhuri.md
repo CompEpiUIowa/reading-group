@@ -1,7 +1,7 @@
 ---
 name: Akash Choudhuri
 role: student
-email: akashchoudhuri1@gmail.com
+email: akash-choudhuri@uiowa.edu
 website: 
 photo: Akash_Choudhuri.jpg
 ---
