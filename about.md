@@ -97,15 +97,22 @@ Sofia Maria Nikolakaki, Alina Ene, Evimaria Terzi, An Efficient Framework for Ba
 
 ## Week 13 (Nov 17)
 
-Panel discussion on reviews
+Panel discussion on the SDM reviews
 
 ## Week 14 (Nov 24)
 
-TBD
+No meeting - Thanksgiving break
 
 ## Week 15 (Dec 1)
 
-TBD
+- Presenter: Jeff Keithley
 
+Tasuku Soma, Yuichi Yoshida, Maximizing Monotone Submodular Functions over the Integer Lattice, Mathematical Programming 2018
+[Paper Link](https://arxiv.org/abs/1503.01218)
+
+or
+
+Tasuku Soma, Naonori Kakimura, Kazuhiro Inaba, Ken-ichi Kawarabayashi, Optimal Budget Allocation: Theoretical Guarantee and Efficient Algorithm, ICML 2014
+[Paper Link](http://proceedings.mlr.press/v32/soma14.html)
 
 ...
