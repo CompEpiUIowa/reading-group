@@ -119,7 +119,7 @@ Tasuku Soma, Naonori Kakimura, Kazuhiro Inaba, Ken-ichi Kawarabayashi, Optimal B
 
 - Presenter: Hasib Hasan
 
-Ravi Kumar, Manish Purohit, Zoya Svitkina
+Ravi Kumar, Manish Purohit, Zoya Svitkina, Improving Online Algorithms via ML Predictions, AAAI 2018
 [Paper Link](https://papers.nips.cc/paper/2018/file/73a427badebe0e32caa2e1fc7530b7f3-Paper.pdf)
 
 ...
