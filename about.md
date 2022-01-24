@@ -16,110 +16,78 @@ description: >-
 
 ---
 
-## Week0 (Aug 18)
+## Week1 (Jan 17)
 
-Set up a time for the meeting.
+- No meeting (holiday)
 
-## Week1 (Aug 25)
+## Week2 (Jan 24)
 
-- Discuss plans and papers to read
+- Discussion on the plans.
 
-## Week2 (Sep 1)
+## Week3 (Jan 31)
+
+- Presenter: Prof. Pemmaraju (may be canceled).
+
+## Week 4 (Feb 7)
 
 - No meeting
 
-## Week3 (Sep 8)
-
-- Presenter: Hankyu Jang
-
-Choi, E., Xu, Z., Li, Y., Dusenberry, M., Flores, G., Xue, E., & Dai, A. (2020). Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer. Proceedings of the AAAI Conference on Artificial Intelligence, 34(01), 606-613. https://doi.org/10.1609/aaai.v34i01.5400
-[Paper link](https://ojs.aaai.org/index.php/AAAI/article/view/5400)
-
-## Week 4 (Sep 15)
-
-- Presenter: Hasib Hasan
-
-Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser Ł, Polosukhin I. Attention is all you need. InAdvances in neural information processing systems 2017 (pp. 5998-6008).
-[Paper link](https://arxiv.org/abs/1706.03762)
-
-## Week 5 (Sep 22)
-
-- Presenter: Prof. Sriram Pemmaraju
-
-Tutorial on submodular functions
-
-## Week 6 (Sep 29)
-
-- Presenter: Jeff Keithley
-
-Kempe D, Kleinberg J, Tardos É. Maximizing the spread of influence through a social network. InProceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining 2003 Aug 24 (pp. 137-146).
-[Paper link](https://dl.acm.org/doi/10.1145/956750.956769)
-
-
-## Week 7 (Oct 6)
-
-- Presenter: Prof. Bijaya Adhikari
-
-Title: Exploiting and optimizing mobility to reduce Hospital Acquired Infections
-
-## Week 8 (Oct 13)
-
-- Presenter: David Aites
-
-General overview of GCNs
-
-## Week 9 (Oct 20)
-
-- Presenter: Prof. Sriram Pemmaraju
-
-Tutorial on submodular function maximization with matroid constraints, which will serve as "Part 2" in the series of tutorials on submodular function optimization.
-
-## Week 10 (Oct 27)
+## Week 5 (Feb 14)
 
 - Presenter: Akash Choudhuri
 
-Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodríguez, Chao Zhang, B. Aditya Prakash. When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting. NeurIPS 2021.
-[Paper link](https://arxiv.org/abs/2106.03904)
+Yazdani A, Lu L, Raissi M, Karniadakis GE. Systems biology informed deep learning for inferring parameters and hidden dynamics. PLoS computational biology. 2020 Nov 18;16(11):e1007575.
+[Paper link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007575)
 
-## Week 11 (Nov 3)
-
-- Presenter: Masahiro Kiji
-
-Shenyang Huang, Yasmeen Hitti, Guillaume Rabusseau, Reihaneh Rabbany, Laplacian Change Point Detection for Dynamic Graphs, KDD 2020
-[Paper Link](https://arxiv.org/abs/2007.01229)
-
-## Week 12 (Nov 10)
-
-- Presenter: Hankyu Jang
-
-Sofia Maria Nikolakaki, Alina Ene, Evimaria Terzi, An Efficient Framework for Balancing Submodularity and Cost, KDD 2021
-[Paper Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467367)
-
-## Week 13 (Nov 17)
-
-Panel discussion on the SDM reviews
-
-## Week 14 (Nov 24)
-
-No meeting - Thanksgiving break
-
-## Week 15 (Dec 1)
+## Week 6 (Feb 21)
 
 - Presenter: Jeff Keithley
 
-Tasuku Soma, Yuichi Yoshida, Maximizing Monotone Submodular Functions over the Integer Lattice, Mathematical Programming 2018
-[Paper Link](https://arxiv.org/abs/1503.01218)
+## Week 7 (Feb 28)
 
-or
+- Presenter: Hankyu Jang
 
-Tasuku Soma, Naonori Kakimura, Kazuhiro Inaba, Ken-ichi Kawarabayashi, Optimal Budget Allocation: Theoretical Guarantee and Efficient Algorithm, ICML 2014
-[Paper Link](http://proceedings.mlr.press/v32/soma14.html)
 
-## Week 16 (Dec 8)
+## Week 8 (Mar 7)
 
-- Presenter: Hasib Hasan
+- Presenter: David Aites
 
-Ravi Kumar, Manish Purohit, Zoya Svitkina, Improving Online Algorithms via ML Predictions, AAAI 2018
-[Paper Link](https://papers.nips.cc/paper/2018/file/73a427badebe0e32caa2e1fc7530b7f3-Paper.pdf)
+
+## Week 9 (Mar 14)
+
+- No meeting (Spring break)
+
+## Week 10 (Mar 21)
+
+- Presenter: Masahiro Kiji
+
+## Week 11 (Mar 28)
+
+- Presenter: TBD
+
+
+## Week 12 (Apr 4)
+
+- Presenter: TBD
+
+## Week 13 (Apr 11)
+
+- Presenter: TBD
+
+
+## Week 14 (Apr 18)
+
+- Presenter: TBD
+
+
+## Week 15 (Apr 25)
+
+- Presenter: TBD
+
+
+## Week 16 (May 2)
+
+- Presenter: TBD
+
 
 ...
