@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule (2021 Fall)
 description: >-
     Tentative schedule
 ---
