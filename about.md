@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule (2022 Spring)
 description: >-
     Tentative schedule
 ---
