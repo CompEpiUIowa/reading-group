@@ -26,7 +26,7 @@ description: >-
 
 ## Week3 (Jan 31)
 
-- Presenter: Prof. Pemmaraju (may be canceled).
+- No meeting
 
 ## Week 4 (Feb 7)
 
