@@ -53,7 +53,7 @@ Medlock J, Galvani AP. Optimizing influenza vaccine distribution. Science. 2009 
 
 ## Week 8 (Mar 7)
 
-- Presenter: David Aites
+- Presenter: Masahiro Kiji
 
 
 ## Week 9 (Mar 14)
@@ -62,7 +62,7 @@ Medlock J, Galvani AP. Optimizing influenza vaccine distribution. Science. 2009 
 
 ## Week 10 (Mar 21)
 
-- Presenter: Masahiro Kiji
+- Presenter: TBD
 
 ## Week 11 (Mar 28)
 
