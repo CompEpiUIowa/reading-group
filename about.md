@@ -65,7 +65,9 @@ Hung T. Nguyen, My T. Thai, and Thang N. Dinh. 2016. Stop-and-Stare: Optimal Sam
 
 ## Week 10 (Mar 21)
 
-- Presenter: TBD
+- Presenter: Prof. Bijaya Adhikari
+
+Tutorial on reinforcement learning on combinatorial optimization
 
 ## Week 11 (Mar 28)
 
