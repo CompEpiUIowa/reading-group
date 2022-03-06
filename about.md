@@ -56,8 +56,7 @@ Hung T. Nguyen, My T. Thai, and Thang N. Dinh. 2016. Stop-and-Stare: Optimal Sam
 
 ## Week 8 (Mar 7)
 
-- Presenter: Masahiro Kiji
-
+- No meeting
 
 ## Week 9 (Mar 14)
 
@@ -65,18 +64,21 @@ Hung T. Nguyen, My T. Thai, and Thang N. Dinh. 2016. Stop-and-Stare: Optimal Sam
 
 ## Week 10 (Mar 21)
 
+- Presenter: Masahiro Kiji
+
+Heavey J, Cui J, Chen C, Prakash BA, Vullikanti A. Provable Sensor Sets for Epidemic Detection over Networks with Minimum Delay.
+[Paper link](https://faculty.cc.gatech.edu/~badityap/papers/network-sensors-aaai22.pdf)
+
+## Week 11 (Mar 28)
+
 - Presenter: Prof. Bijaya Adhikari
 
 Tutorial on reinforcement learning on combinatorial optimization
 
-## Week 11 (Mar 28)
-
-- Presenter: TBD
-
 
 ## Week 12 (Apr 4)
 
-- Presenter: TBD
+- Presenter: Prof. Sriram Pemmaraju
 
 ## Week 13 (Apr 11)
 
