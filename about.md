@@ -73,16 +73,20 @@ Heavey J, Cui J, Chen C, Prakash BA, Vullikanti A. Provable Sensor Sets for Epid
 
 - Presenter: Prof. Bijaya Adhikari
 
-Tutorial on reinforcement learning on combinatorial optimization
+Introductino on the reinforcement learning
 
 
 ## Week 12 (Apr 4)
 
-- Presenter: Prof. Sriram Pemmaraju
+- Presenter: Prof. Bijaya Adhikari
+
+Reinforcement learning on combinatorial optimization
 
 ## Week 13 (Apr 11)
 
-- Presenter: TBD
+- Presenter: Prof. Sriram Pemmaraju
+
+Semi-definite program for vaccine allocation
 
 
 ## Week 14 (Apr 18)
