@@ -73,20 +73,21 @@ Heavey J, Cui J, Chen C, Prakash BA, Vullikanti A. Provable Sensor Sets for Epid
 
 - Presenter: Prof. Bijaya Adhikari
 
-Introductino on the reinforcement learning
+Introduction on the reinforcement learning
 
 
 ## Week 12 (Apr 4)
 
-- Presenter: Prof. Bijaya Adhikari
+- Presenter: Prof. Sriram Pemmaraju
 
-Reinforcement learning on combinatorial optimization
+"Controlling Propagation at Group Scale on Networks" by Zhang, Adiga, Vullikanti, and Prakash (ICDM 2015)
+[Paper link](https://faculty.cc.gatech.edu/~badityap/papers/groupvacc-icdm15.pdf)
 
 ## Week 13 (Apr 11)
 
-- Presenter: Prof. Sriram Pemmaraju
+- Presenter: Prof. Bijaya Adhikari
 
-Semi-definite program for vaccine allocation
+Reinforcement learning on combinatorial optimization
 
 
 ## Week 14 (Apr 18)
