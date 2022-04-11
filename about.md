@@ -92,7 +92,10 @@ Reinforcement learning on combinatorial optimization
 
 ## Week 14 (Apr 18)
 
-- Presenter: TBD
+- Presenter: Hankyu Jang
+
+Xiao H, Aslay C, Gionis A. Robust cascade reconstruction by steiner tree sampling. IEEE ICDM 2018
+[Paper link](https://arxiv.org/pdf/1809.05812.pdf)
 
 
 ## Week 15 (Apr 25)
