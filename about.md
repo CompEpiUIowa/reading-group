@@ -100,7 +100,10 @@ Xiao H, Aslay C, Gionis A. Robust cascade reconstruction by steiner tree samplin
 
 ## Week 15 (Apr 25)
 
-- Presenter: TBD
+- Presenter: Jeff Keithley
+
+Das A, Kempe D. Approximate submodularity and its applications: Subset selection, sparse approximation and dictionary selection. The Journal of Machine Learning Research. 2018
+[Paper link](https://jmlr.csail.mit.edu/papers/volume19/16-534/16-534.pdf)
 
 
 ## Week 16 (May 2)
