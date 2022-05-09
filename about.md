@@ -108,7 +108,7 @@ Das A, Kempe D. Approximate submodularity and its applications: Subset selection
 
 ## Week 16 (May 2)
 
-- Presenter: TBD
+- Group lunch
 
 
 ...
