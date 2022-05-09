@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule (2022 Spring)
+title: Schedule (2022 Fall)
 description: >-
     Tentative schedule
 ---
@@ -16,99 +16,70 @@ description: >-
 
 ---
 
-## Week1 (Jan 17)
+## Week1 ()
 
-- No meeting (holiday)
+- TBD
 
-## Week2 (Jan 24)
+## Week2 ()
 
-- Discussion on the plans.
+- TBD
 
-## Week3 (Jan 31)
+## Week3 ()
 
-- No meeting
+- TBD
 
-## Week 4 (Feb 7)
+## Week4 ()
 
-- No meeting
+- TBD
 
-## Week 5 (Feb 14)
+## Week5 ()
 
-- Presenter: Akash Choudhuri
+- TBD
 
-Yazdani A, Lu L, Raissi M, Karniadakis GE. Systems biology informed deep learning for inferring parameters and hidden dynamics. PLoS computational biology. 2020 Nov 18;16(11):e1007575.
-[Paper link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007575)
+## Week6 ()
 
-## Week 6 (Feb 21)
+- TBD
 
-- Presenter: Jeff Keithley
+## Week7 ()
 
-Medlock J, Galvani AP. Optimizing influenza vaccine distribution. Science. 2009 Sep 25;325(5948):1705-8.
-[Paper link](https://www.science.org/doi/abs/10.1126/science.1175570)
+- TBD
 
-## Week 7 (Feb 28)
+## Week8 ()
 
-- Presenter: Hankyu Jang
+- TBD
 
-Hung T. Nguyen, My T. Thai, and Thang N. Dinh. 2016. Stop-and-Stare: Optimal Sampling Algorithms for Viral Marketing in Billion-scale Networks. In <i>Proceedings of the 2016 International Conference on Management of Data</i> (<i>SIGMOD '16</i>). Association for Computing Machinery, New York, NY, USA, 695–710. DOI:https://doi.org/10.1145/2882903.2915207
-[Paper link](https://dl.acm.org/doi/10.1145/2882903.2915207)
+## Week9 ()
 
+- TBD
 
-## Week 8 (Mar 7)
+## Week10 ()
 
-- No meeting
+- TBD
 
-## Week 9 (Mar 14)
+## Week11 ()
 
-- No meeting (Spring break)
+- TBD
 
-## Week 10 (Mar 21)
+## Week12 ()
 
-- Presenter: Masahiro Kiji
+- TBD
 
-Heavey J, Cui J, Chen C, Prakash BA, Vullikanti A. Provable Sensor Sets for Epidemic Detection over Networks with Minimum Delay.
-[Paper link](https://faculty.cc.gatech.edu/~badityap/papers/network-sensors-aaai22.pdf)
+## Week13 ()
 
-## Week 11 (Mar 28)
+- TBD
 
-- Presenter: Prof. Bijaya Adhikari
+## Week14 ()
 
-Introduction on the reinforcement learning
+- TBD
 
+## Week15 ()
 
-## Week 12 (Apr 4)
+- TBD
 
-- Presenter: Prof. Sriram Pemmaraju
+## Week16 ()
 
-"Controlling Propagation at Group Scale on Networks" by Zhang, Adiga, Vullikanti, and Prakash (ICDM 2015)
-[Paper link](https://faculty.cc.gatech.edu/~badityap/papers/groupvacc-icdm15.pdf)
+- TBD
 
-## Week 13 (Apr 11)
+## Week17 ()
 
-- Presenter: Prof. Bijaya Adhikari
-
-Reinforcement learning on combinatorial optimization
-
-
-## Week 14 (Apr 18)
-
-- Presenter: Hankyu Jang
-
-Xiao H, Aslay C, Gionis A. Robust cascade reconstruction by steiner tree sampling. IEEE ICDM 2018
-[Paper link](https://arxiv.org/pdf/1809.05812.pdf)
-
-
-## Week 15 (Apr 25)
-
-- Presenter: Jeff Keithley
-
-Das A, Kempe D. Approximate submodularity and its applications: Subset selection, sparse approximation and dictionary selection. The Journal of Machine Learning Research. 2018
-[Paper link](https://jmlr.csail.mit.edu/papers/volume19/16-534/16-534.pdf)
-
-
-## Week 16 (May 2)
-
-- Group lunch
-
-
-...
+- TBD
