@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: Aug 22
+date: Jan 17
 ---
 
-Set up the meeting time.
+No meeting (holiday).
