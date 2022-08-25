@@ -25,3 +25,14 @@ description: Members of the reading group
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign former_student = site.staffers | where: 'role', 'former_student' %}
+{% assign num_former_student = former_student | size %}
+{% if num_former_student != 0 %}
+
+## Former Students
+
+{% for staffer in former_student %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

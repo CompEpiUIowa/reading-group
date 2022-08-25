@@ -1,6 +1,6 @@
 ---
 name: David Aites
-role: student
+role: former_student
 email: linden-aites@uiowa.edu
 website: https://cs.uiowa.edu/people/aites-linden
 photo: bio-photo.jpg
