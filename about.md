@@ -16,70 +16,70 @@ description: >-
 
 ---
 
-## Week1 ()
+## Week1 (Aug 22)
+
+- Schedule meeting time
+
+## Week2 (Aug 29)
+
+- Discuss which papers to read this semester
+
+## Week3 (Sep 5)
+
+- No meeting - Labor Day
+
+## Week4 (Sep 12)
 
 - TBD
 
-## Week2 ()
+## Week5 (Sep 19)
 
 - TBD
 
-## Week3 ()
+## Week6 (Sep 26)
 
 - TBD
 
-## Week4 ()
+## Week7 (Oct 3)
 
 - TBD
 
-## Week5 ()
+## Week8 (Oct 10)
 
 - TBD
 
-## Week6 ()
+## Week9 (Oct 17)
 
 - TBD
 
-## Week7 ()
+## Week10 (Oct 24)
 
 - TBD
 
-## Week8 ()
+## Week11 (Oct 31)
 
 - TBD
 
-## Week9 ()
+## Week12 (Nov 7)
 
 - TBD
 
-## Week10 ()
+## Week13 (Nov 14)
 
 - TBD
 
-## Week11 ()
+## Week14 (Nov 21)
+
+- No meeting (Fall break)
+
+## Week15 (Nov 28)
 
 - TBD
 
-## Week12 ()
+## Week16 (Dec 5)
 
 - TBD
 
-## Week13 ()
+## Week17 (Dec 12)
 
-- TBD
-
-## Week14 ()
-
-- TBD
-
-## Week15 ()
-
-- TBD
-
-## Week16 ()
-
-- TBD
-
-## Week17 ()
-
-- TBD
+- No meeting (Final exam week)
