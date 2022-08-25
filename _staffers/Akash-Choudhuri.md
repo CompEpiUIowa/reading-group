@@ -1,8 +1,8 @@
 ---
 name: Akash Choudhuri
 role: student
-email: akashchoudhuri1@gmail.com
-website: 
+email: akash-choudhuri@uiowa.edu
+website: https://soothysay.github.io/
 photo: Akash_Choudhuri.jpg
 ---
 
