@@ -30,19 +30,22 @@ description: >-
 
 ## Week4 (Sep 12)
 
-- TBD
+- Presenter: Hankyu Jang
+
+Li Y, He K, Bindel D, Hopcroft JE. Uncovering the small community structure in large networks: A local spectral approach. WWW 2015
+[Paper link](https://arxiv.org/pdf/1509.07715.pdf)
 
 ## Week5 (Sep 19)
 
-- TBD
+- Presenter: faculty member (Prof. Sriram Pemmaraju | Prof. Bijaya Adhikari)
 
 ## Week6 (Sep 26)
 
-- TBD
+- Presenter: Jeff Keithley
 
 ## Week7 (Oct 3)
 
-- TBD
+- Presenter: Akash Choudhuri
 
 ## Week8 (Oct 10)
 
