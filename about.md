@@ -37,7 +37,7 @@ Li Y, He K, Bindel D, Hopcroft JE. Uncovering the small community structure in l
 
 ## Week5 (Sep 19)
 
-- Presenter: faculty member (Prof. Sriram Pemmaraju | Prof. Bijaya Adhikari)
+- Presenter: faculty member
 
 ## Week6 (Sep 26)
 
