@@ -30,7 +30,7 @@ description: >-
 
 ## Week4 (Sep 12)
 
-- Cancelled
+- Canceled due to CDC meeting
 
 ## Week5 (Sep 19)
 
