@@ -30,26 +30,26 @@ description: >-
 
 ## Week4 (Sep 12)
 
+- Cancelled
+
+## Week5 (Sep 19)
+
 - Presenter: Hankyu Jang
 
 Li Y, He K, Bindel D, Hopcroft JE. Uncovering the small community structure in large networks: A local spectral approach. WWW 2015
 [Paper link](https://arxiv.org/pdf/1509.07715.pdf)
 
-## Week5 (Sep 19)
+## Week6 (Sep 26)
 
 - Presenter: faculty member
 
-## Week6 (Sep 26)
+## Week7 (Oct 3)
 
 - Presenter: Jeff Keithley
 
-## Week7 (Oct 3)
-
-- Presenter: Akash Choudhuri
-
 ## Week8 (Oct 10)
 
-- TBD
+- Presenter: Akash Choudhuri
 
 ## Week9 (Oct 17)
 
