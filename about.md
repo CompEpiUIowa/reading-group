@@ -58,6 +58,9 @@ PLOS Computational Biology, 12(7), e1004928. https://doi.org/10.1371/journal.pcb
 
 - Presenter: Akash Choudhuri
 
+Jha K, Zhang A. Continual knowledge infusion into pre-trained biomedical language models. Bioinformatics. 2022 Jan 15;38(2):494-502.
+[Paper link](https://academic.oup.com/bioinformatics/article/38/2/494/6374496)
+
 ## Week9 (Oct 17)
 
 - TBD
