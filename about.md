@@ -88,7 +88,7 @@ Y. Cheng, J. K. Yella and A. G. Jegga, "Triangle-Based Tripartite Graph Clusteri
 
 ## Week13 (Nov 14)
 
-- TBD
+- Paper review discussion (SDM)
 
 ## Week14 (Nov 21)
 
