@@ -77,14 +77,17 @@ Xu C, Moseley B. Learning-augmented algorithms for online steiner tree. InProcee
 
 ## Week11 (Oct 31)
 
+- Presenter: Weiyu Huang (continued)
+
+Xu C, Moseley B. Learning-augmented algorithms for online steiner tree. InProceedings of the AAAI Conference on Artificial Intelligence 2022 Jun 28 (Vol. 36, No. 8, pp. 8744-8752).
+[Paper link](https://arxiv.org/abs/2112.05353?context=cs)
+
+## Week12 (Nov 7)
+
 - Presenter: Xiang Liu
 
 Y. Cheng, J. K. Yella and A. G. Jegga, "Triangle-Based Tripartite Graph Clustering," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2020, pp. 1769-1776, doi: 10.1109/BIBM49941.2020.9313324
 [Paper link](https://ieeexplore.ieee.org/document/9313324)
-
-## Week12 (Nov 7)
-
-- TBD
 
 ## Week13 (Nov 14)
 
