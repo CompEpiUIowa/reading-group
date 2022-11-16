@@ -99,7 +99,7 @@ Y. Cheng, J. K. Yella and A. G. Jegga, "Triangle-Based Tripartite Graph Clusteri
 
 ## Week15 (Nov 28)
 
-- TBD
+- Presenter: Lucas Zach-Ryan
 
 ## Week16 (Dec 5)
 
