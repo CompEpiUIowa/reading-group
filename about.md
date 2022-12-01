@@ -106,7 +106,7 @@ Kumar R, Purohit M, Svitkina Z. Improving online algorithms via ML predictions. 
 
 ## Week16 (Dec 5)
 
-- TBD
+- Presenter: Hieu Vu
 
 ## Week17 (Dec 12)
 
