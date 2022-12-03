@@ -108,6 +108,9 @@ Kumar R, Purohit M, Svitkina Z. Improving online algorithms via ML predictions. 
 
 - Presenter: Hieu Vu
 
+Massaroli S, Poli M, Park J, Yamashita A, Asama H. Dissecting neural odes. Advances in Neural Information Processing Systems. 2020
+[Paper link](https://arxiv.org/abs/2002.08071)
+
 ## Week17 (Dec 12)
 
 - No meeting (Final exam week)
