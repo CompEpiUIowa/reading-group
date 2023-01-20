@@ -1,7 +1,7 @@
 ---
 title: Week 2 Announcement
 week: 2
-date: Jan 23
+date: Jan 26
 ---
 
-Discuss list of papers that we may cover this semester
+- Discuss which papers to read this semester
