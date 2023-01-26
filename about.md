@@ -26,7 +26,7 @@ description: >-
 
 ## Week3 (Feb 2)
 
-- TBD
+- Presenter: Jeff
 
 ## Week4 (Feb 9)
 
