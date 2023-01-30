@@ -26,7 +26,10 @@ description: >-
 
 ## Week3 (Feb 2)
 
-- Presenter: Jeff
+- Presenter: Jeff Keithley
+
+Yi Y, Shan L, Pare PE, Johansson KH. Fair Curing and Network Design in SIS Epidemic Processes. arXiv 2022 Nov 11.
+[Paper link](https://arxiv.org/abs/2211.06028)
 
 ## Week4 (Feb 9)
 
