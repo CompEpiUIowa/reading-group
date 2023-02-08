@@ -33,7 +33,7 @@ Yi Y, Shan L, Pare PE, Johansson KH. Fair Curing and Network Design in SIS Epide
 
 ## Week4 (Feb 9)
 
-- TBD
+- Canceled
 
 ## Week5 (Feb 16)
 
