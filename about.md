@@ -37,19 +37,19 @@ Yi Y, Shan L, Pare PE, Johansson KH. Fair Curing and Network Design in SIS Epide
 
 ## Week5 (Feb 16)
 
-- TBD
+- Presenter: Xiang Liu
 
 ## Week6 (Feb 23)
 
-- TBD
+- Presenter: Yongjian Zhong
 
 ## Week7 (Mar 2)
 
-- TBD
+- Presenter: Lucas Zach-Ryan
 
 ## Week8 (Mar 9)
 
-- TBD
+- Presenter: Weiyu Huang
 
 ## Week9 (Mar 16)
 
@@ -57,31 +57,31 @@ Yi Y, Shan L, Pare PE, Johansson KH. Fair Curing and Network Design in SIS Epide
 
 ## Week10 (Mar 23)
 
-- TBD
+- Presenter: Jin Cho
 
 ## Week11 (Mar 30)
 
-- TBD
+- Presenter: Akash Choudhuri
 
 ## Week12 (Apr 6)
 
-- TBD
+- Presenter: Hieu T Vu
 
 ## Week13 (Apr 13)
 
-- TBD
+- Presenter: Pratik Maitra
 
 ## Week14 (Apr 20)
 
-- TBD
+- Presenter: Hankyu Jang
 
 ## Week15 (Apr 27)
 
-- TBD
+- Presenter: TBD
 
 ## Week16 (May 4)
 
-- TBD
+- Presenter: TBD
 
 ## Week17 (May 11)
 
