@@ -37,22 +37,22 @@ Yi Y, Shan L, Pare PE, Johansson KH. Fair Curing and Network Design in SIS Epide
 
 ## Week5 (Feb 16)
 
+- Canceled due to inclement weather
+
+## Week6 (Feb 23)
+
 - Presenter: Xiang Liu
 
 Ravindran Kannan and Santosh Vempala (2009), Spectral Algorithms. Foundations and Trends in Theoretical Computer Science: Vol. 4: No. 3–4, pp 157-288. http://dx.doi.org/10.1561/0400000025
 [Link](https://www.math.ucdavis.edu/~saito/data/pca-svd/kannan-vempala-spbook.pdf)
 
-## Week6 (Feb 23)
+## Week7 (Mar 2)
 
 - Presenter: Yongjian Zhong
 
-## Week7 (Mar 2)
-
-- Presenter: Lucas Zach-Ryan
-
 ## Week8 (Mar 9)
 
-- Presenter: Weiyu Huang
+- Presenter: Lucas Zach-Ryan
 
 ## Week9 (Mar 16)
 
@@ -60,27 +60,27 @@ Ravindran Kannan and Santosh Vempala (2009), Spectral Algorithms. Foundations an
 
 ## Week10 (Mar 23)
 
-- Presenter: Jin Cho
+- Presenter: Weiyu Huang
 
 ## Week11 (Mar 30)
 
-- Presenter: Akash Choudhuri
+- Presenter: Jin Cho
 
 ## Week12 (Apr 6)
 
-- Presenter: Hieu T Vu
+- Presenter: Akash Choudhuri
 
 ## Week13 (Apr 13)
 
-- Presenter: Pratik Maitra
+- Presenter: Hieu T Vu
 
 ## Week14 (Apr 20)
 
-- Presenter: Hankyu Jang
+- Presenter: Pratik Maitra
 
 ## Week15 (Apr 27)
 
-- Presenter: TBD
+- Presenter: Hankyu Jang
 
 ## Week16 (May 4)
 
