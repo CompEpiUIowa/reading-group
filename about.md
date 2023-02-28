@@ -50,6 +50,9 @@ Ravindran Kannan and Santosh Vempala (2009), Spectral Algorithms. Foundations an
 
 - Presenter: Yongjian Zhong
 
+Chen W, Wang Y, Yuan Y. Combinatorial multi-armed bandit: General framework and applications. InInternational conference on machine learning 2013 Feb 13 (pp. 151-159). PMLR.
+[Link](http://proceedings.mlr.press/v28/chen13a.pdf)
+
 ## Week8 (Mar 9)
 
 - Presenter: Lucas Zach-Ryan
