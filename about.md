@@ -67,23 +67,23 @@ Chen W, Wang Y, Yuan Y. Combinatorial multi-armed bandit: General framework and 
 
 ## Week11 (Mar 30)
 
-- Presenter: Jin Cho
+- Presenter: Akash Choudhuri
 
 ## Week12 (Apr 6)
 
-- Presenter: Akash Choudhuri
+- Presenter: Hieu T Vu
 
 ## Week13 (Apr 13)
 
-- Presenter: Hieu T Vu
+- Presenter: Pratik Maitra
 
 ## Week14 (Apr 20)
 
-- Presenter: Pratik Maitra
+- Presenter: Hankyu Jang
 
 ## Week15 (Apr 27)
 
-- Presenter: Hankyu Jang
+- Presenter: TBD
 
 ## Week16 (May 4)
 
