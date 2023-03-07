@@ -57,6 +57,9 @@ Chen W, Wang Y, Yuan Y. Combinatorial multi-armed bandit: General framework and 
 
 - Presenter: Lucas Zach-Ryan
 
+Selsam D, Lamm M, Bünz B, Liang P, de Moura L, Dill DL. Learning a SAT solver from single-bit supervision. arXiv preprint arXiv:1802.03685. 2018 Feb 11.
+[Link](https://arxiv.org/pdf/1802.03685.pdf)
+
 ## Week9 (Mar 16)
 
 - No meeting (Spring Break)
