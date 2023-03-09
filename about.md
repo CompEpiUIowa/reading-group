@@ -55,10 +55,7 @@ Chen W, Wang Y, Yuan Y. Combinatorial multi-armed bandit: General framework and 
 
 ## Week8 (Mar 9)
 
-- Presenter: Lucas Zach-Ryan
-
-Selsam D, Lamm M, Bünz B, Liang P, de Moura L, Dill DL. Learning a SAT solver from single-bit supervision. arXiv preprint arXiv:1802.03685. 2018 Feb 11.
-[Link](https://arxiv.org/pdf/1802.03685.pdf)
+- Canceled due to snowstorm
 
 ## Week9 (Mar 16)
 
@@ -66,27 +63,30 @@ Selsam D, Lamm M, Bünz B, Liang P, de Moura L, Dill DL. Learning a SAT solver f
 
 ## Week10 (Mar 23)
 
-- Presenter: Weiyu Huang
+- Presenter: Lucas Zach-Ryan
+
+Selsam D, Lamm M, Bünz B, Liang P, de Moura L, Dill DL. Learning a SAT solver from single-bit supervision. arXiv preprint arXiv:1802.03685. 2018 Feb 11.
+[Link](https://arxiv.org/pdf/1802.03685.pdf)
 
 ## Week11 (Mar 30)
 
-- Presenter: Akash Choudhuri
+- Presenter: Weiyu Huang
 
 ## Week12 (Apr 6)
 
-- Presenter: Hankyu Jang
+- Presenter: Akash Choudhuri
 
 ## Week13 (Apr 13)
 
-- Presenter: Hieu T Vu
+- Presenter: Hankyu Jang
 
 ## Week14 (Apr 20)
 
-- Presenter: Pratik Maitra
+- Presenter: Hieu T Vu
 
 ## Week15 (Apr 27)
 
-- Presenter: TBD
+- Presenter: Pratik Maitra
 
 ## Week16 (May 4)
 
