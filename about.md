@@ -72,6 +72,9 @@ Selsam D, Lamm M, Bünz B, Liang P, de Moura L, Dill DL. Learning a SAT solver f
 
 - Presenter: Weiyu Huang
 
+Anand K, Ge R, Panigrahi D. Customizing ML predictions for online algorithms. InInternational Conference on Machine Learning 2020 Nov 21 (pp. 303-313). PMLR.
+[Link](http://proceedings.mlr.press/v119/anand20a/anand20a.pdf)
+
 ## Week12 (Apr 6)
 
 - Presenter: Akash Choudhuri
