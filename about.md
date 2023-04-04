@@ -79,6 +79,9 @@ Anand K, Ge R, Panigrahi D. Customizing ML predictions for online algorithms. In
 
 - Presenter: Akash Choudhuri
 
+Balázs Csegő Kolok. Thesis. Eötvös Loránd University.
+[Link](https://web.cs.elte.hu/blobs/diplomamunkak/msc_alkmat/2021/kolok_balazs_csego.pdf)
+
 ## Week13 (Apr 13)
 
 - Presenter: Hankyu Jang
