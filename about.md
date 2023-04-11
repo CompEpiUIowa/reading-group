@@ -86,6 +86,9 @@ Balázs Csegő Kolok. Thesis. Eötvös Loránd University.
 
 - Presenter: Hankyu Jang
 
+Ritwick Mishra, Jack Heavey, Gursharn Kaur, Abhijin Adiga, Anil Vullikanti. Reconstructing an Epidemic Outbreak Using Steiner Connectivity. AAAI 2023
+[Link](https://libraetd.lib.virginia.edu/public_view/wh246t32z)
+
 ## Week14 (Apr 20)
 
 - Presenter: Hieu T Vu
