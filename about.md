@@ -20,66 +20,66 @@ description: >-
 
 - Schedule meeting time
 
-## Week2 (-)
+## Week2 (August 31)
 
 - Discuss which papers to read this semester
 
-## Week3 (-)
+## Week3 (September 7)
 
 - Presenter: TBD
 
-## Week4 (-)
+## Week4 (September 14)
 
 - Presenter: TBD
 
-## Week5 (-)
+## Week5 (September 21)
 
 - Presenter: TBD
 
-## Week6 (-)
+## Week6 (September 28)
 
 - Presenter: TBD
 
-## Week7 (-)
+## Week7 (October 5)
 
 - Presenter: TBD
 
-## Week8 (-)
+## Week8 (October 12)
 
 - Presenter: TBD
 
-## Week9 (-)
+## Week9 (October 19)
 
 - Presenter: TBD
 
-## Week10 (-)
+## Week10 (October 26)
 
 - Presenter: TBD
 
-## Week11 (-)
+## Week11 (November 2)
 
 - Presenter: TBD
 
-## Week12 (-)
+## Week12 (November 9)
 
 - Presenter: TBD
 
-## Week13 (-)
+## Week13 (November 16)
 
 - Presenter: TBD
 
-## Week14 (-)
+## Week14 (November 23)
+
+- Presenter: No Meeting (Fall Break)
+
+## Week15 (November 30)
 
 - Presenter: TBD
 
-## Week15 (-)
+## Week16 (December 7)
 
 - Presenter: TBD
 
-## Week16 (-)
+## Week17 (December 14)
 
-- Presenter: TBD
-
-## Week17 (-)
-
-- No meeting (Final Exam Week)
+- No Meeting (Final Exam Week)
