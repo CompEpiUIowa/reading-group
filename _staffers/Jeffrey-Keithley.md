@@ -2,7 +2,7 @@
 name: Jeffrey Keithley
 role: student
 email: jeffrey-keithley@uiowa.edu
-website: https://cs.uiowa.edu/people/jeffrey-keithley
+website: https://jeffkeithley.github.io/
 photo: jeff_keithley_profile.jpg
 ---
 

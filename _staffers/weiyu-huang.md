@@ -1,6 +1,6 @@
 ---
 name: Weiyu Huang
-role: student
+role: former_student
 email: weiyu-huang@uiowa.edu
 website: 
 photo: bio-photo.jpg

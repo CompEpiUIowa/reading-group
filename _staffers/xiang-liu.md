@@ -1,6 +1,6 @@
 ---
 name: Xiang Liu
-role: student
+role: former_student
 email: xiang-liu@uiowa.edu
 website: https://cs.uiowa.edu/people/xiang-liu
 photo: Liu_Xiang.jpg
