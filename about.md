@@ -61,15 +61,15 @@ Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 
 
 ## Week11 (November 2)
 
-- Presenter: TBD
+- Presenter: Hankyu Jang
 
 ## Week12 (November 9)
 
-- Presenter: TBD
+- Presenter: Jeffrey Keithley
 
 ## Week13 (November 16)
 
-- Presenter: TBD
+- Presenter: Akash Choudhuri
 
 ## Week14 (November 23)
 
@@ -77,11 +77,11 @@ Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 
 
 ## Week15 (November 30)
 
-- Presenter: TBD
+- Presenter: Yongjian Zhong
 
 ## Week16 (December 7)
 
-- Presenter: TBD
+- Presenter: Hieu Vu
 
 ## Week17 (December 14)
 
