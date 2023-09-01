@@ -26,35 +26,38 @@ description: >-
 
 ## Week3 (September 7)
 
-- Presenter: TBD
+- Presenter: Hankyu Jang
+
+Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 2017
+[Paper link](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 
 ## Week4 (September 14)
 
-- Presenter: TBD
+- Presenter: Akash Choudhuri
 
 ## Week5 (September 21)
 
-- Presenter: TBD
+- Presenter: Jeffrey Keithley
 
 ## Week6 (September 28)
 
-- Presenter: TBD
+- Presenter: Yongjian Zhong
 
 ## Week7 (October 5)
 
-- Presenter: TBD
+- Presenter: Hieu Vu
 
 ## Week8 (October 12)
 
-- Presenter: TBD
+- Presenter: Mehrdad Moharrami
 
 ## Week9 (October 19)
 
-- Presenter: TBD
+- Presenter: Bijaya Adhikari
 
 ## Week10 (October 26)
 
-- Presenter: TBD
+- Presenter: Sriram Pemmaraju
 
 ## Week11 (November 2)
 
