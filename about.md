@@ -28,8 +28,8 @@ description: >-
 
 - Presenter: Hankyu Jang
 
-Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 2017
-[Paper link](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
+Ribeiro MT, Singh S, Guestrin C. "Why should i trust you?" Explaining the predictions of any classifier. KDD 2016 
+[Paper link](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)
 
 ## Week4 (September 14)
 
@@ -49,27 +49,27 @@ Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 
 
 ## Week8 (October 12)
 
-- Presenter: Mehrdad Moharrami
+- Presenter: John Kessler
 
 ## Week9 (October 19)
 
-- Presenter: Bijaya Adhikari
+- Presenter: Mehrdad Moharrami
 
 ## Week10 (October 26)
 
-- Presenter: Sriram Pemmaraju
+- Presenter: Bijaya Adhikari
 
 ## Week11 (November 2)
 
-- Presenter: Hankyu Jang
+- Presenter: Sriram Pemmaraju
 
 ## Week12 (November 9)
 
-- Presenter: Jeffrey Keithley
+- Presenter: TBD
 
 ## Week13 (November 16)
 
-- Presenter: Akash Choudhuri
+- Presenter: TBD
 
 ## Week14 (November 23)
 
@@ -77,11 +77,11 @@ Lundberg SM, Lee SI. A unified approach to interpreting model predictions. NIPS 
 
 ## Week15 (November 30)
 
-- Presenter: Yongjian Zhong
+- Presenter: TBD
 
 ## Week16 (December 7)
 
-- Presenter: Hieu Vu
+- Presenter: TBD
 
 ## Week17 (December 14)
 
