@@ -28,12 +28,14 @@ description: >-
 
 - Presenter: Hankyu Jang
 
-Ribeiro MT, Singh S, Guestrin C. "Why should i trust you?" Explaining the predictions of any classifier. KDD 2016 
+Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. “‘Why Should I Trust You?’: Explaining the Predictions of Any Classifier.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–44. San Francisco California USA: ACM, 2016. https://doi.org/10.1145/2939672.2939778
 [Paper link](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)
 
 ## Week4 (September 14)
 
 - Presenter: Akash Choudhuri
+
+Xu, Ran, Yue Yu, Chao Zhang, Mohammed K. Ali, Joyce C. Ho, and Carl Yang. “Counterfactual and Factual Reasoning over Hypergraphs for Interpretable Clinical Predictions on EHR.” In Proceedings of the 2nd Machine Learning for Health Symposium, 259–78. PMLR, 2022. [Paper link](https://proceedings.mlr.press/v193/xu22a.html)
 
 ## Week5 (September 21)
 
