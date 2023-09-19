@@ -41,6 +41,8 @@ Xu, Ran, Yue Yu, Chao Zhang, Mohammed K. Ali, Joyce C. Ho, and Carl Yang. “Cou
 
 - Presenter: Jeffrey Keithley
 
+Yokote, Koji. “[UTMD-038] Efficient, Fair, and Strategy-Proof Allocation of Discrete Resources under Weak Preferences and Constraints” The University of Tokyo Market Design Center (UTMD). [Paper Link](https://www.mdc.e.u-tokyo.ac.jp/en/2022/12/26/efficient-fair-and-strategy-proof-allocation-of-discrete-resources-under-weak-preferences-and-constraints/)
+
 ## Week6 (September 28)
 
 - Presenter: Yongjian Zhong
