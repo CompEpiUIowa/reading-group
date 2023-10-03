@@ -39,37 +39,39 @@ Xu, Ran, Yue Yu, Chao Zhang, Mohammed K. Ali, Joyce C. Ho, and Carl Yang. “Cou
 
 ## Week5 (September 21)
 
+- No Meeting
+
+## Week6 (September 28)
+
 - Presenter: Jeffrey Keithley
 
 Yokote, Koji. “[UTMD-038] Efficient, Fair, and Strategy-Proof Allocation of Discrete Resources under Weak Preferences and Constraints” The University of Tokyo Market Design Center (UTMD). [Paper Link](https://www.mdc.e.u-tokyo.ac.jp/en/2022/12/26/efficient-fair-and-strategy-proof-allocation-of-discrete-resources-under-weak-preferences-and-constraints/)
 
-## Week6 (September 28)
+## Week7 (October 5)
 
 - Presenter: Yongjian Zhong
 
-## Week7 (October 5)
-
-- Presenter: Hieu Vu
+Awasthi, Pranjal, Abhimanyu Das, and Sreenivas Gollapudi. “A Convergence Analysis of Gradient Descent on Graph Neural Networks.” In Advances in Neural Information Processing Systems, 34:20385–97. Curran Associates, Inc., 2021. [Paper Link](https://proceedings.neurips.cc/paper/2021/file/aaf2979785deb27864047e0ea40ef1b7-Paper.pdf)
 
 ## Week8 (October 12)
 
-- Presenter: John Kessler
+- Presenter: Hieu Vu
 
 ## Week9 (October 19)
 
-- Presenter: Mehrdad Moharrami
+- Presenter: John Kessler
 
 ## Week10 (October 26)
 
-- Presenter: Bijaya Adhikari
+- Presenter: Mehrdad Moharrami
 
 ## Week11 (November 2)
 
-- Presenter: Sriram Pemmaraju
+- Presenter: Bijaya Adhikari
 
 ## Week12 (November 9)
 
-- Presenter: TBD
+- Presenter: Sriram Pemmaraju
 
 ## Week13 (November 16)
 
