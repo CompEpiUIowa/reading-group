@@ -57,6 +57,8 @@ Awasthi, Pranjal, Abhimanyu Das, and Sreenivas Gollapudi. “A Convergence Analy
 
 - Presenter: Hieu Vu
 
+Rasul, Kashif, Calvin Seward, Ingmar Schuster, and Roland Vollgraf. “Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting.” arXiv, February 2, 2021. [Paper Link](https://arxiv.org/pdf/2101.12072.pdf)
+
 ## Week9 (October 19)
 
 - Presenter: John Kessler
