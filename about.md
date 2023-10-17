@@ -63,6 +63,8 @@ Rasul, Kashif, Calvin Seward, Ingmar Schuster, and Roland Vollgraf. “Autoregre
 
 - Presenter: John Kessler
 
+Wang, Yuke, Christine L. Moe, and Peter F. M. Teunis. “Children Are Exposed to Fecal Contamination via Multiple Interconnected Pathways: A Network Model for Exposure Assessment.” Risk Analysis 38, no. 11 (November 2018): 2478–96. [Paper Link](https://onlinelibrary.wiley.com/doi/10.1111/risa.13146)
+
 ## Week10 (October 26)
 
 - Presenter: Mehrdad Moharrami
