@@ -67,19 +67,19 @@ Wang, Yuke, Christine L. Moe, and Peter F. M. Teunis. “Children Are Exposed to
 
 ## Week10 (October 26)
 
-- Presenter: Mehrdad Moharrami
+- No Meeting
 
 ## Week11 (November 2)
 
-- Presenter: Bijaya Adhikari
+- Presenter: Mehrdad Moharrami
 
 ## Week12 (November 9)
 
-- Presenter: Sriram Pemmaraju
+- Presenter: Bijaya Adhikari
 
 ## Week13 (November 16)
 
-- Presenter: TBD
+- Presenter: Sriram Pemmaraju
 
 ## Week14 (November 23)
 
