@@ -73,6 +73,8 @@ Wang, Yuke, Christine L. Moe, and Peter F. M. Teunis. “Children Are Exposed to
 
 - Presenter: Mehrdad Moharrami
 
+Moharrami, Mehrdad, Vijay Subramanian, Mingyan Liu, and Marc Lelarge. “Impact of Community Structure on Cascades.” arXiv, May 4, 2022. [Paper Link](https://arxiv.org/abs/1606.00858)
+
 ## Week12 (November 9)
 
 - Presenter: Bijaya Adhikari
