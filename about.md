@@ -79,6 +79,8 @@ Moharrami, Mehrdad, Vijay Subramanian, Mingyan Liu, and Marc Lelarge. “Impact 
 
 - Presenter: Bijaya Adhikari
 
+Chowell, Gerardo, Amna Tariq, and James M. Hyman. “A Novel Sub-Epidemic Modeling Framework for Short-Term Forecasting Epidemic Waves.” BMC Medicine 17, no. 1 (August 22, 2019): 164. [Paper Link](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1406-6)
+
 ## Week13 (November 16)
 
 - Presenter: Sriram Pemmaraju
