@@ -85,6 +85,8 @@ Chowell, Gerardo, Amna Tariq, and James M. Hyman. “A Novel Sub-Epidemic Modeli
 
 - Presenter: Sriram Pemmaraju
 
+Cohen, Edith, et al. “Sketch-Based Influence Maximization and Computation: Scaling up with Guarantees.” Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management, 2014, pp. 629–38. arXiv.org. [Paper Link](https://arxiv.org/abs/1408.6282)
+
 ## Week14 (November 23)
 
 - Presenter: No Meeting (Fall Break)
