@@ -1,6 +1,6 @@
 ---
 name: Hankyu Jang
-role: student
+role: former_student
 email: hankyu-jang@uiowa.edu
 website: https://hankyujang.github.io/
 photo: hankyu-chicago.jpg
