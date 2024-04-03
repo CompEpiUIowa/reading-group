@@ -2,7 +2,7 @@
 layout: page
 title: Schedule (2024 Spring)
 description: >-
-    Tentative schedule
+    We are not holding the AlgoEpi reading group in Spring 2024.
 ---
 
 # Tentative schedule
@@ -20,66 +20,22 @@ description: >-
 
 - Schedule meeting time
 
-## Week2 (-)
+## Week2 (February 29)
 
 - Discuss which papers to read this semester
 
-## Week3 (-)
+## Week3 to Week5 (March 7-28)
 
-- Presenter: TBD
+- Presenter: Akash Choudhuri
 
-## Week4 (-)
+Shafer, Glenn, and Vladimir Vovk. A Tutorial on Conformal Prediction. arXiv:0706.3188, arXiv, 21 June 2007. arXiv.org, https://doi.org/10.48550/arXiv.0706.3188.
 
-- Presenter: TBD
+## Week6 to -- (April 3-)
 
-## Week5 (-)
+- Presenter: Yongjian Zhong
 
-- Presenter: TBD
+Kumar, Ananya, et al. Verified Uncertainty Calibration. arXiv:1909.10155, arXiv, 31 Jan. 2020. arXiv.org, https://doi.org/10.48550/arXiv.1909.10155.
 
-## Week6 (-)
+Guo, Chuan, et al. On Calibration of Modern Neural Networks. arXiv:1706.04599, arXiv, 3 Aug. 2017. arXiv.org, https://doi.org/10.48550/arXiv.1706.04599.
 
-- Presenter: TBD
-
-## Week7 (-)
-
-- Presenter: TBD
-
-## Week8 (-)
-
-- Presenter: TBD
-
-## Week9 (-)
-
-- Presenter: TBD
-
-## Week10 (-)
-
-- Presenter: TBD
-
-## Week11 (-)
-
-- Presenter: TBD
-
-## Week12 (-)
-
-- Presenter: TBD
-
-## Week13 (-)
-
-- Presenter: TBD
-
-## Week14 (-)
-
-- Presenter: TBD
-
-## Week15 (-)
-
-- Presenter: TBD
-
-## Week16 (-)
-
-- Presenter: TBD
-
-## Week17 (-)
-
-- No Meeting (Final Exam Week)
+Popordanoska, Teodora, et al. A Consistent and Differentiable Lp Canonical Calibration Error Estimator. arXiv:2210.07810, arXiv, 13 Oct. 2022. arXiv.org, https://doi.org/10.48550/arXiv.2210.07810.
