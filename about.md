@@ -54,4 +54,4 @@ Kong, Lingkai, et al. "Autoregressive diffusion model for graph generation." Int
 
 - Presenter: Jeffrey Keithley
 
-Corbett-Davies, Sam, et al. The Measure and Mismeasure of Fairness. arXiv:1808.00023, arXiv, 14 Aug. 2023. arXiv.org, https://doi.org/10.48550/arXiv.1808.00023.
+Elzayn, Hadi, et al. Fair Algorithms for Learning in Allocation Problems. arXiv:1808.10549, arXiv, 14 Nov. 2018. arXiv.org, https://doi.org/10.48550/arXiv.1808.10549.
