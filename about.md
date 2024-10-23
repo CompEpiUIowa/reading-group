@@ -1,12 +1,8 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: Schedule (2024 Fall)
-=======
-title: Schedule (2024 Spring)
->>>>>>> 922b4dbe58a4dad62e7d2dd568588d973b0224f1
 description: >-
-    We are not holding the AlgoEpi reading group in Spring 2024.
+    Tentative schedule
 ---
 
 # Tentative schedule
@@ -24,7 +20,6 @@ description: >-
 
 - Schedule meeting time
 
-<<<<<<< HEAD
 ## Week2 (September 11)
 
 - Discuss which papers to read this semester
@@ -47,23 +42,9 @@ Kim, Hyeonah, et al. “Symmetric Replay Training: Enhancing Sample Efficiency i
 ## Week5 (October 2)
 
 -Presenter: Brendan Latham
-=======
-## Week2 (February 29)
-
-- Discuss which papers to read this semester
-
-## Week3 to Week5 (March 7-28)
-
-- Presenter: Akash Choudhuri
-
-Shafer, Glenn, and Vladimir Vovk. A Tutorial on Conformal Prediction. arXiv:0706.3188, arXiv, 21 June 2007. arXiv.org, https://doi.org/10.48550/arXiv.0706.3188.
-
-## Week6 to Week7 (April 3-10)
->>>>>>> 922b4dbe58a4dad62e7d2dd568588d973b0224f1
 
 Wang, Yuanhao, et al. Is RLHF More Difficult than Standard RL? arXiv:2306.14111, arXiv, 3 Nov. 2023. arXiv.org, https://doi.org/10.48550/arXiv.2306.14111.
 
-<<<<<<< HEAD
 ## Week6 (October 9)
 
 -Presenter: Brendan Latham (Continued)
@@ -103,30 +84,9 @@ Kim, Hyeonah, et al. “Symmetric Replay Training: Enhancing Sample Efficiency i
 - Presenter: No Meeting (Fall Break)
 
 ## Week15 (December 4)
-=======
-Kumar, Ananya, et al. Verified Uncertainty Calibration. arXiv:1909.10155, arXiv, 31 Jan. 2020. arXiv.org, https://doi.org/10.48550/arXiv.1909.10155.
 
-Guo, Chuan, et al. On Calibration of Modern Neural Networks. arXiv:1706.04599, arXiv, 3 Aug. 2017. arXiv.org, https://doi.org/10.48550/arXiv.1706.04599.
+- Presenter: TBD
 
-Popordanoska, Teodora, et al. A Consistent and Differentiable Lp Canonical Calibration Error Estimator. arXiv:2210.07810, arXiv, 13 Oct. 2022. arXiv.org, https://doi.org/10.48550/arXiv.2210.07810.
-
-## Week8 to Week9 (April 17-24)
-
-- Presenter: Hieu Vu
-
-Austin, Jacob, et al. "Structured denoising diffusion models in discrete state-spaces." Advances in Neural Information Processing Systems 34 (2021): 17981-17993.
-
-Hoogeboom, Emiel, et al. "Autoregressive diffusion models." arXiv preprint arXiv:2110.02037 (2021).
-
-Kong, Lingkai, et al. "Autoregressive diffusion model for graph generation." International conference on machine learning. PMLR, 2023.
->>>>>>> 922b4dbe58a4dad62e7d2dd568588d973b0224f1
-
-## Week10 (May 1)
-
-<<<<<<< HEAD
 ## Week16 (December 11)
-=======
-- Presenter: Jeffrey Keithley
->>>>>>> 922b4dbe58a4dad62e7d2dd568588d973b0224f1
 
-Elzayn, Hadi, et al. Fair Algorithms for Learning in Allocation Problems. arXiv:1808.10549, arXiv, 14 Nov. 2018. arXiv.org, https://doi.org/10.48550/arXiv.1808.10549.
+- No Meeting (Final Exam Week)
