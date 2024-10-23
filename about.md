@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule (2023 Fall)
+title: Schedule (2024 Fall)
 description: >-
     Tentative schedule
 ---
@@ -20,83 +20,73 @@ description: >-
 
 - Schedule meeting time
 
-## Week2 (August 31)
+## Week2 (September 11)
 
 - Discuss which papers to read this semester
 
-## Week3 (September 7)
-
-- Presenter: Hankyu Jang
-
-Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. “‘Why Should I Trust You?’: Explaining the Predictions of Any Classifier.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–44. San Francisco California USA: ACM, 2016. https://doi.org/10.1145/2939672.2939778
-[Paper link](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)
-
-## Week4 (September 14)
+## Week3 (September 18)
 
 - Presenter: Akash Choudhuri
 
-Xu, Ran, Yue Yu, Chao Zhang, Mohammed K. Ali, Joyce C. Ho, and Carl Yang. “Counterfactual and Factual Reasoning over Hypergraphs for Interpretable Clinical Predictions on EHR.” In Proceedings of the 2nd Machine Learning for Health Symposium, 259–78. PMLR, 2022. [Paper link](https://proceedings.mlr.press/v193/xu22a.html)
+Mnih, Volodymyr, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. 
+“Playing Atari with Deep Reinforcement Learning.” arXiv, December 19, 2013. https://doi.org/10.48550/arXiv.1312.5602.
 
-## Week5 (September 21)
-
-- No Meeting
-
-## Week6 (September 28)
-
-- Presenter: Jeffrey Keithley
-
-Yokote, Koji. “[UTMD-038] Efficient, Fair, and Strategy-Proof Allocation of Discrete Resources under Weak Preferences and Constraints” The University of Tokyo Market Design Center (UTMD). [Paper Link](https://www.mdc.e.u-tokyo.ac.jp/en/2022/12/26/efficient-fair-and-strategy-proof-allocation-of-discrete-resources-under-weak-preferences-and-constraints/)
-
-## Week7 (October 5)
+## Week4 (September 25)
 
 - Presenter: Yongjian Zhong
 
-Awasthi, Pranjal, Abhimanyu Das, and Sreenivas Gollapudi. “A Convergence Analysis of Gradient Descent on Graph Neural Networks.” In Advances in Neural Information Processing Systems, 34:20385–97. Curran Associates, Inc., 2021. [Paper Link](https://proceedings.neurips.cc/paper/2021/file/aaf2979785deb27864047e0ea40ef1b7-Paper.pdf)
+Khalil, Elias, et al. “Learning Combinatorial Optimization Algorithms over Graphs.” Advances in Neural Information Processing Systems, vol. 30, Curran Associates, Inc., 2017. Neural Information Processing Systems, https://proceedings.neurips.cc/paper/2017/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html.
 
-## Week8 (October 12)
+Kim, Hyeonah, et al. “Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization.” Proceedings of the 41st International Conference on Machine Learning, PMLR, 2024, pp. 24110–36. proceedings.mlr.press, https://proceedings.mlr.press/v235/kim24o.html.
 
-- Presenter: Hieu Vu
+## Week5 (October 2)
 
-Rasul, Kashif, Calvin Seward, Ingmar Schuster, and Roland Vollgraf. “Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting.” arXiv, February 2, 2021. [Paper Link](https://arxiv.org/pdf/2101.12072.pdf)
+-Presenter: Brendan Latham
 
-## Week9 (October 19)
+Wang, Yuanhao, et al. Is RLHF More Difficult than Standard RL? arXiv:2306.14111, arXiv, 3 Nov. 2023. arXiv.org, https://doi.org/10.48550/arXiv.2306.14111.
 
-- Presenter: John Kessler
+## Week6 (October 9)
 
-Wang, Yuke, Christine L. Moe, and Peter F. M. Teunis. “Children Are Exposed to Fecal Contamination via Multiple Interconnected Pathways: A Network Model for Exposure Assessment.” Risk Analysis 38, no. 11 (November 2018): 2478–96. [Paper Link](https://onlinelibrary.wiley.com/doi/10.1111/risa.13146)
+-Presenter: Brendan Latham (Continued)
 
-## Week10 (October 26)
+Wang, Yuanhao, et al. Is RLHF More Difficult than Standard RL? arXiv:2306.14111, arXiv, 3 Nov. 2023. arXiv.org, https://doi.org/10.48550/arXiv.2306.14111.
+
+## Week7 (October 16)
+
+- Presenter: Yongjian Zhong (Continued)
+
+Khalil, Elias, et al. “Learning Combinatorial Optimization Algorithms over Graphs.” Advances in Neural Information Processing Systems, vol. 30, Curran Associates, Inc., 2017. Neural Information Processing Systems, https://proceedings.neurips.cc/paper/2017/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html.
+
+Kim, Hyeonah, et al. “Symmetric Replay Training: Enhancing Sample Efficiency in Deep Reinforcement Learning for Combinatorial Optimization.” Proceedings of the 41st International Conference on Machine Learning, PMLR, 2024, pp. 24110–36. proceedings.mlr.press, https://proceedings.mlr.press/v235/kim24o.html.
+
+## Week8 (October 23)
 
 - No Meeting
 
-## Week11 (November 2)
+## Week9 (October 30)
 
-- Presenter: Mehrdad Moharrami
+- Presenter: Jeffrey Keithley
 
-Moharrami, Mehrdad, Vijay Subramanian, Mingyan Liu, and Marc Lelarge. “Impact of Community Structure on Cascades.” arXiv, May 4, 2022. [Paper Link](https://arxiv.org/abs/1606.00858)
+## Week10 (November 6)
 
-## Week12 (November 9)
+- Presenter: TBD
 
-- Presenter: Bijaya Adhikari
+## Week11 (November 13)
 
-Chowell, Gerardo, Amna Tariq, and James M. Hyman. “A Novel Sub-Epidemic Modeling Framework for Short-Term Forecasting Epidemic Waves.” BMC Medicine 17, no. 1 (August 22, 2019): 164. [Paper Link](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1406-6)
+- Presenter: TBD
 
-## Week13 (November 16)
+## Week12 (November 20)
 
-- Presenter: Sriram Pemmaraju
+- Presenter: TBD
 
-## Week14 (November 23)
+## Week13 (November 27)
 
 - Presenter: No Meeting (Fall Break)
 
-## Week15 (November 30)
+## Week15 (December 4)
 
 - Presenter: TBD
 
-## Week16 (December 7)
-
-- Presenter: TBD
-
-## Week17 (December 14)
+## Week16 (December 11)
 
 - No Meeting (Final Exam Week)
